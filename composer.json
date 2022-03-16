@@ -1,6 +1,6 @@
 {
     "name": "taoran/filter-word",
-    "description": "敏感词过滤",
+    "description": "PHP敏感词过滤",
     "keywords": ["敏感词过滤", "非法词过滤", "DFA算法"],
     "license": "MIT",
     "autoload": {
