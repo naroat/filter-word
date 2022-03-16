@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Packages\Fuckword\src;
+namespace Taoran\FilterWord;
 
 /**
  * 词库管理

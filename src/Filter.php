@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Packages\Fuckword\src;
+namespace Taoran\FilterWord;
 
 class Filter
 {
