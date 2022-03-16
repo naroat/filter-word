@@ -5,7 +5,6 @@ namespace Taoran\FilterWord;
 
 class Filter
 {
-
     public $dict;
 
     private $dfa;
