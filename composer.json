@@ -1,0 +1,23 @@
+{
+    "name": "taoran/filter-word",
+    "description": "敏感词过滤",
+    "keywords": ["敏感词过滤", "非法词过滤", "DFA算法"],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Taoran\\FilterWord\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "taoran",
+            "email": "taoran0796@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "php": ">=7.2"
+    }
+}
